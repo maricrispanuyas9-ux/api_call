@@ -1,8 +1,8 @@
 MARICRIS D. PANUYAS
 
 API CALL PROJECT
-
-To set up my API CALL project, I first downloaded and opened the project folder in Visual Studio Code. After opening the terminal, I ran `composer install` to install all the necessary Laravel dependencies. Next, I copied the `.env.example` file and renamed it to `.env`, then generated the application key using the `php artisan key:generate` command.
+C
+To set up my API CALL project, I first downloaded and opened the project folder in VSCoduim. After opening the terminal, I ran `composer install` to install all the necessary Laravel dependencies. Next, I copied the `.env.example` file and renamed it to `.env`, then generated the application key using the `php artisan key:generate` command.
 
 After that, I configured the database connection in the `.env` file. Since I used SQLite for this project, I created a `database.sqlite` file inside the database folder and updated the database settings. Once the database was ready, I ran `php artisan migrate` to create all the required tables.
 
