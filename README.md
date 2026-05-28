@@ -9,6 +9,9 @@ After that, I configured the database connection in the `.env` file. Since I use
 Finally, I started the Laravel development server using `php artisan serve`. After the server was running, I used Postman to test the API endpoints such as GET, POST, PUT, and DELETE requests to make sure the API was functioning correctly.
 
 
+https://drive.google.com/drive/folders/11tiKYXVyCTBBLIYgIlbKyi6Sy5IkBYSH?usp=drive_link
+
+
 
 
 
