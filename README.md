@@ -1,4 +1,5 @@
 MARICRIS D. PANUYAS
+
 API CALL PROJECT
 
 To set up my API CALL project, I first downloaded and opened the project folder in Visual Studio Code. After opening the terminal, I ran `composer install` to install all the necessary Laravel dependencies. Next, I copied the `.env.example` file and renamed it to `.env`, then generated the application key using the `php artisan key:generate` command.
